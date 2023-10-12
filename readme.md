@@ -9,8 +9,7 @@ don't commit without running!
 
 run, test, make sure you get a right result, then commit.
 
-i believe you know everything to be able to do this homework now.
+i believe you know everything to be able to do this lab now.
 
-yes, this is not just a lab, but homework.
 
 
